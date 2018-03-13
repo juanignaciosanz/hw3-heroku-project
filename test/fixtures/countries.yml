@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  continent: MyString
+  population: 1
+  gnp: MyString
+
+two:
+  name: MyString
+  continent: MyString
+  population: 1
+  gnp: MyString

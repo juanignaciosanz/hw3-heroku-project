@@ -15,6 +15,7 @@ class TasksController < ApplicationController
   # GET /tasks/new
   def new
     @task = Task.new
+    @task.description = 'Type the description here...'
   end
 
   # GET /tasks/1/edit
